@@ -4,7 +4,7 @@
 
 `Subject:`**0-30.** Identifies the subject who performed the activity for each window sample.
 
-`Activities:`**0-6.**With the labels below:
+`Activities:`**0-6.** With the labels below:
 
 `1 WALKING
 2 WALKING_UPSTAIRS
